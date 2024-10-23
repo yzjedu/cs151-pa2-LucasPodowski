@@ -1,4 +1,4 @@
-# Programmers: Lucas Podowski
+# Programmer: Lucas Podowski
 # Course:  CS151, Zelalem Yalew
 # Due Date: 10/23/2024
 # programming Assignment: 2
